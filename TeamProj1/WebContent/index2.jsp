@@ -10,7 +10,7 @@
 <body>
 
 	<h2>두번째 index 파일입니다</h2>
-	
+	 
 
 </body>
 </html>
